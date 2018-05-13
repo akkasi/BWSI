@@ -486,6 +486,8 @@ def FindWordIns1(All_dict, w):
         if ins.startswith(w+'.'):
             Instances.append(ins)
 
+
     return Instances
 
+#This is a change 
 
